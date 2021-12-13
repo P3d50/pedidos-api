@@ -18,7 +18,7 @@ executar o comando abaixo no diretório raiz do projeto
 
 será gerado o arquivo jar da aplicação na pasta target
 
-Dentro da pasta target executar o comando abaixo, se atentar ao nome do arquivo .jar gerado
+Para rodar a aplicação, dentro da pasta target executar o comando abaixo, se atentar ao nome do arquivo .jar gerado
 
     > java -jar pedidos-0.0.1-SNAPSHOT.jar
 	
